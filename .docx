@@ -1,0 +1,15 @@
+CREATE TABLE Employee
+       (first_name VARCHARS(15),
+	    last_name VARCHAR (20),
+		AGE INT,
+		hire_date DATE);
+    
+    
+    
+    CREATE TABLE vacation_plan;
+             (place_id INT,
+		      COUNTRY TEXT, varchar(20)
+			  hotel_nam TEXTemployee_id INT 
+			  location_length INT,
+			  budget REAL);
+      
